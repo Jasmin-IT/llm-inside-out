@@ -1,0 +1,6 @@
+{
+  "name": "LLM Inside Out",
+  "description": "An interactive visual guide to understanding how Large Language Models are trained, how they tokenise text, and how they predict the next word.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
