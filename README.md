@@ -1,13 +1,7 @@
-
-
 # LLM Inside Out
 
 This contains everything you need to run your app locally.
-
-
-This contains everything you need to run your app locally.
-
-      Live site: https://llm-inside-out.jasmin910822.workers.dev/
+Live site: https://llm-inside-out.jasmin910822.workers.dev/
 
 ## Run Locally
 
