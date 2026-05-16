@@ -108,7 +108,6 @@ export default function App() {
             A production-grade explainer designed to make the invisible math of AI visible to everyone.
           </p>
           <div className="flex justify-center gap-8 text-[11px] font-mono text-zinc-600 uppercase tracking-widest">
-            <span>© 2024 AI Education</span>
             <a href="#" className="hover:text-blue-400">Terms</a>
             <a href="#" className="hover:text-blue-400">Privacy</a>
           </div>
